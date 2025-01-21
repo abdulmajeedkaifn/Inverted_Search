@@ -1,5 +1,3 @@
-# Inverted_Search
-
 # Inverted Search Using Hash Algorithms
 
 ## Overview
