@@ -1,0 +1,10 @@
+#;0;aello;1;f2.txt;3;#
+#;0;Aello;1;f2.txt;1;#
+#;1;Bella;1;f2.txt;1;#
+#;2;Cio;1;f2.txt;2;#
+#;7;hi;2;f1.txt;2;f2.txt;2;#
+#;7;Hi;1;f1.txt;2;#
+#;10;kaif;1;f2.txt;1;#
+#;26;%;2;f1.txt;1;f2.txt;1;#
+#;26;$;1;f1.txt;1;#
+#;26;123hello;1;f1.txt;1;#
